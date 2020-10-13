@@ -24,7 +24,7 @@
         <gnu-crypto.version>2.0.1</gnu-crypto.version>
         <junrar.version>0.7</junrar.version>
 		<lombok.version>1.18.10</lombok.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<slf4j.api.version>1.7.25</slf4j.api.version>
         <logback.classic.version>1.2.3</logback.classic.version>
     </properties>
